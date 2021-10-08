@@ -5,7 +5,7 @@
        <title>WELCOME TO QCC's WEBSITE!!</title>
   </head>
   <body>
-    <link rel="stylesheet" type="text/css" href="C:\Users\lenovo\Desktop\1.000.css">
+    <link rel="stylesheet" type="text/css" href="1.000.css">
       <h1>女人们，男人们！欢迎点开我的个人网页！</h1>
     <h2>你们想要了解我的什么呢？</h2>
       <ol>
